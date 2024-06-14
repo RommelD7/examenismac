@@ -6,8 +6,7 @@ import com.distribuida.entities.Departamento;
 
 public interface DepartamentoDAO {
 	
-	
-	
+	//Intento de examen#3
 			public List<Departamento> findAll();
 			
 			public Departamento findOne(int id);
